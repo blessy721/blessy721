@@ -22,21 +22,27 @@
  </p>
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
-  <img src="python-logo-url.png" alt="Python" width="50">
+  <a href="https://www.python.org/">
+    <img src="python-logo-url.png" alt="Python" width="50">
+  </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="sql-logo-url.png" alt="SQL" width="50">
+  <a href="https://www.w3schools.com/sql/">
+    <img src="sql-logo-url.png" alt="SQL" width="50">
+  </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="html5-logo-url.png" alt="HTML5" width="50">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+    <img src="html5-logo-url.png" alt="HTML5" width="50">
+  </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="css3-logo-url.png" alt="CSS3" width="50">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+    <img src="css3-logo-url.png" alt="CSS3" width="50">
+  </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="excel-logo-url.png" alt="Excel" width="50">
+  <a href="https://www.microsoft.com/en-us/microsoft-365/excel">
+    <img src="excel-logo-url.png" alt="Excel" width="50">
+  </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="aws-logo-url.png" alt="AWS" width="50">
-</p>
-
-
-
-
-
-
+  <a href="https://aws.amazon.com/">
+    <img src="aws-logo-url.png" alt="AWS" width="50">
+  </a>
+</p> 
