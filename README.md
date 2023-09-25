@@ -20,8 +20,7 @@
  <a href="mailto:blessyjefrina0821@gmail.com">
  </a>
  </p>
-  
-  <h3 align="left"> Technical Skills👇</h3>
+<h3 align="left">Languages and Tools:</h3>
 
 
 
