@@ -27,7 +27,7 @@
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.w3schools.com/sql/">
-    <img src="sql-logo-url.png" alt="SQL" width="50">
+    <img src="https://thumbs.dreamstime.com/b/sql-database-icon-logo-design-ui-ux-app-orange-inscription-shadow-96841969.jpg" alt="SQL" width="50">
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
@@ -39,10 +39,10 @@
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.microsoft.com/en-us/microsoft-365/excel">
-    <img src="excel-logo-url.png" alt="Excel" width="50">
+    <img src="https://static.vecteezy.com/system/resources/previews/022/100/657/original/microsoft-excel-logo-transparent-free-png.png" alt="Excel" width="50">
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://aws.amazon.com/">
-    <img src="aws-logo-url.png" alt="AWS" width="50">
+    <img src="https://logos-world.net/wp-content/uploads/2021/08/Amazon-Web-Services-AWS-Emblem.png" alt="AWS" width="50">
   </a>
 </p> 
