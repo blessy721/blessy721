@@ -21,6 +21,20 @@
  </a>
  </p>
 <h3 align="left">Languages and Tools:</h3>
+<p align="center">
+  <img src="python-logo-url.png" alt="Python" width="50">
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="sql-logo-url.png" alt="SQL" width="50">
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="html5-logo-url.png" alt="HTML5" width="50">
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="css3-logo-url.png" alt="CSS3" width="50">
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="excel-logo-url.png" alt="Excel" width="50">
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="aws-logo-url.png" alt="AWS" width="50">
+</p>
+
 
 
 
