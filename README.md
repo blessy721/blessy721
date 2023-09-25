@@ -21,7 +21,7 @@
  </a>
  </p>
   
-<h4> align="left" Technical Skills</h4>
+<h4 align="left"> Technical Skills👇</h4>
 
 
 
