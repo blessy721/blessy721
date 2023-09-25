@@ -1,4 +1,4 @@
-<h1> align="center">  Hi I'm Blessy Jefrina H </h1>
+<h1 align="center">  Hi I'm Blessy Jefrina H </h1>
 <h3 align="center"> BE-CSE Graduate | Aspiring Front-End Web Developer | Python Explorer | Seeking Opportunities |Entry-Level Tech Enthusiast </h3>
 
 
