@@ -4,13 +4,13 @@
 
 - 🔭 I’m currently working on python development intern
 
-- 🌱 I’m currently learning advance Python Programming 
+- 🌱 I’m currently learning advance Python Programming 💻
 
-- 👯 My skills 👉 Python Programming , aws cloud , sql , excel ,  front end development , designing 
+- 👯 My skills 👉 Python Programming🖳 , aws cloud☁️ , sql🗃️ , excel📇,  front end development🖼️ , designing 🌐
 
-- 🤔 I’m looking for full time job Opportunities.
+- 🤔 I’m looking for full time job Opportunities🚀.
 
-- 📫 reach me: blessyjefrina0821@gmail.com 
+- 📫 reach me: blessyjefrina0821@gmail.com 📧
 
   <h3 align="left"> Connect With Me:</h3>
   <p align="left">
@@ -20,15 +20,6 @@
   <a href="https://www.facebook.com/Jefrina">
   <img src="https://png.pngtree.com/png-vector/20230225/ourmid/pngtree-facebook-social-media-logo-png-image_6618432.png" alt="Facebook" width="40" height="30" align="center"> </a>
  <a href="mailto:blessyjefrina0821@gmail.com">
-  <img src="https://image-url-to-gmail-icon.png" alt="Gmail" width="50">
+<img src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_512px.png" alt="Gmail" width="40" height="30" align="center">
 </a>
-
- 
-</p>
- <a href="mailto:blessyjefrina0821@gmail.com">
-  📧 Email Me
-</a>
-
-
-
-
+</p> 
