@@ -22,6 +22,12 @@
   <a href="mailto:your-emaiblessyjefrina0821@gmail.com">
   <img src="https://image-url-to-gmail-icon.png" alt="Gmail" width="40" height="30" align="center"> </a>
 
+  <a href="mailto:your-blessyjefrina0821@gmail.com">
+  <img src="https://www.gstatic.com/images/icons/material/system/2x/mail_grey600_24dp.png" alt="Gmail" width="24" height="24">
+  Email Me
+</a>
+
+
 
 </a>
 </p>
