@@ -34,8 +34,8 @@
     <img src="html5-logo-url.png" alt="HTML5" width="50">
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg">
-    <img src="css3-logo-url.png" alt="CSS3" width="50">
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="50">
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.microsoft.com/en-us/microsoft-365/excel">
