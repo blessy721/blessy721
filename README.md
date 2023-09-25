@@ -20,10 +20,7 @@
   <a href="https://www.facebook.com/Jefrina">
   <img src="https://png.pngtree.com/png-vector/20230225/ourmid/pngtree-facebook-social-media-logo-png-image_6618432.png" alt="Facebook" width="40" height="30" align="center"> </a>
  <a href="mailto:blessyjefrina0821@gmail.com">
-  <img src="https://www.liblogo.com/img-logo/gm453f62f-gmail-logo-file-gmail-icon-2020-svg-wikimedia-commons.png" alt="Gmail" width="30" width="40" align="center">
-</a>
-
- 
+<img src="https://www.liblogo.com/img-logo/gm453f62f-gmail-logo-file-gmail-icon-2020-svg-wikimedia-commons.png" alt="Gmail" width="30" width="40" align="center"</a>
 </p>
 
 
