@@ -20,9 +20,12 @@
   <a href="https://www.facebook.com/Jefrina">
   <img src="https://png.pngtree.com/png-vector/20230225/ourmid/pngtree-facebook-social-media-logo-png-image_6618432.png" alt="Facebook" width="40" height="30" align="center"> </a>
   <a href="mailto:your-emaiblessyjefrina0821@gmail.com">
-  <img src="https://image-url-to-gmail-icon.png" alt="Gmail" width="40" height="30" align="center"> </a>
-</p>
  
+</p>
+ <a href="mailto:blessyjefrina0821@gmail.com">
+  📧 Email Me
+</a>
+
 
 
 
