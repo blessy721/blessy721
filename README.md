@@ -18,8 +18,7 @@
   <a href="https://github.com/blessy721">
   <img src="https://github.com/favicon.ico" alt="GitHub" width="40" height="30" align="center"> </a>
  <a href="mailto:blessyjefrina0821@gmail.com">
-<img src="https://www.liblogo.com/img-logo/gm453f62f-gmail-logo-file-gmail-icon-2020-svg-wikimedia-commons.png" alt="Gmail" width="30" width="40"</a>
-</p>
+
 
 
 
