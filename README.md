@@ -10,7 +10,7 @@
 
 - 🤔 I’m looking for full time job Opportunities.
 
-- 📫 reach me: blessyjefrina0821@gmail.com
+- 📫 reach me: blessyjefrina0821@gmail.com 
 
   <h3 align="left"> Connect With Me:</h3>
   <p align="left">
