@@ -20,7 +20,7 @@
  <a href="mailto:blessyjefrina0821@gmail.com">
  </a>
  </p>
-<h3 align="left">Languages:</h3>
+<h3 align="left">Technical Skills:</h3>
 <p align="center">
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50">
@@ -45,4 +45,32 @@
   <a href="https://aws.amazon.com/">
     <img src="https://logos-world.net/wp-content/uploads/2021/08/Amazon-Web-Services-AWS-Emblem.png" alt="AWS" width="50">
   </a>
+<h3 align="left">Tools Know To Use:</h3>
+<p align="center">
+  <a href="https://code.visualstudio.com/">
+    <img src="https://repository-images.githubusercontent.com/657248114/d3c7b91a-b285-4d1e-8429-5de1acc5f61e" alt="VS Code" width="50">
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/">
+    <img src="https://w7.pngwing.com/pngs/914/758/png-transparent-github-social-media-computer-icons-logo-android-github-logo-computer-wallpaper-banner-thumbnail.png" alt="GitHub" width="50">
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://colab.research.google.com/">
+    <img src="https://repository-images.githubusercontent.com/228673061/b2c25180-3bff-11ea-965f-4b34f4c6be08" alt="Google Colab" width="50">
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.uipath.com/">
+    <img src="https://w7.pngwing.com/pngs/140/128/png-transparent-uipath-hd-logo-thumbnail.png" alt="UiPath Studio" width="50">
+  </a>
+</p>
+
+
+
+
+
+
+
+
+
+   
 </p> 
