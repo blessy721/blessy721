@@ -20,7 +20,7 @@
   <a href="https://www.facebook.com/Jefrina">
   <img src="https://image-url-to-facebook-icon.png" alt="Facebook" width="40" height="30" align="center"> </a>
   <a href="mailto:your-emaiblessyjefrina0821@gmail.com">
-  <img src="https://image-url-to-gmail-icon.png" alt="Gmail" width="40"height="30" align="center"></a>
+  <img src="https://image-url-to-gmail-icon.png" alt="Gmail" width="40" height="30" align="center"> </a>
 
 
 </a>
