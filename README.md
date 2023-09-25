@@ -34,7 +34,7 @@
     <img src="html5-logo-url.png" alt="HTML5" width="50">
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+  <a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg">
     <img src="css3-logo-url.png" alt="CSS3" width="50">
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
