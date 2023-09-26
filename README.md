@@ -2,11 +2,15 @@
 <h3 align="center"> BE-CSE Graduate🎓| Aspiring Front-End Web Developer👩‍💻 | Python Explorer🖳 | Seeking Opportunities📝 |Entry-Level Tech Enthusiast 🚀 </h3>
 
 
-- 🔭 I’m currently working on python development intern 💻
+- 🔭 I’m currently working on Python Development Intern 💻
 
 - 🌱 I’m currently learning advance Python Programming 🗒️
 
 - 👯 My skills 👉 Python Programming , AWS cloud , SQL , Excel , Front End Development , Designing 🌐
+
+- 💬 Ask me about Python Programming , FrontEnd , Designing Ideas  🎯
+
+- 👨‍💻 All of my projects are available at https://www.github.com/blessy721 
 
 - 🤔 I’m looking for full time job Opportunities 🔎
 
@@ -45,7 +49,7 @@
   <a href="https://aws.amazon.com/">
     <img src="https://logos-world.net/wp-content/uploads/2021/08/Amazon-Web-Services-AWS-Emblem.png" alt="AWS" width="50">
   </a>
-<h3 align="left">Tools Know To Use⚙️⚙️</h3>
+<h3 align="left">Tools Know To Use⚙️</h3>
 <p align="center">
   <a href="https://code.visualstudio.com/">
     <img src="https://repository-images.githubusercontent.com/657248114/d3c7b91a-b285-4d1e-8429-5de1acc5f61e" alt="VS Code" width="50">
