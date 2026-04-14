@@ -29,37 +29,27 @@ Aspiring Cybersecurity Analyst | Networking | Cloud Computing (AWS) | Python
 ## 🚀 Technical Skills
 
 ### 💻 Programming & Core Concepts
-<p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45"/>
-<img src="https://img.icons8.com/external-flat-juicy-fish/60/external-data-structure-coding-and-development-flat-flat-juicy-fish.png" width="45"/>
-</p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="25"/> Python  
+<img src="https://img.icons8.com/ios-filled/50/000000/data-configuration.png" width="25"/> Data Structures  
 
 ### 🗄️ Database
-<p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="50"/>
-</p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="25"/> SQL  
 
 ### 🌐 Web Technologies
-<p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" width="45"/>
-</p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="25"/> HTML  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="25"/> CSS  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="25"/> JavaScript  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" width="25"/> AngularJS  
 
 ### ☁️ Cloud Computing
-<p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="60"/>
-</p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" width="25"/> AWS  
 
 ### 🔐 Cybersecurity & Networking
-<p>
-<img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" width="40"/>
-<img src="https://img.icons8.com/color/48/burp-suite.png" width="40"/>
-<img src="https://img.icons8.com/color/48/bug.png" width="40"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/7/7b/Snort_logo.png" width="40"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Wireshark_Logo.svg" width="40"/>
-</p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="25"/> Kali Linux  
+<img src="https://img.icons8.com/color/48/burp-suite.png" width="25"/> Burp Suite  
+<img src="https://img.icons8.com/color/48/bug.png" width="25"/> BeeBox  
+<img src="https://upload.wikimedia.org/wikipedia/commons/7/7b/Snort_logo.png" width="25"/> Snort  
+<img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Wireshark_Logo.svg" width="25"/> Wireshark  
 
 ---
 
