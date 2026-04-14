@@ -28,10 +28,38 @@ Aspiring Cybersecurity Analyst | Networking | Cloud (AWS Basics) | Python
 
 ## 🚀 Technical Skills
 
-### 💻 Programming & Database
+### 💻 Programming & Core Concepts
 <p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
-<img src="https://thumbs.dreamstime.com/b/sql-database-icon-logo-design-ui-ux-app-orange-inscription-shadow-96841969.jpg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45"/>
+<img src="https://cdn-icons-png.flaticon.com/512/2103/2103633.png" width="45" title="Data Structures"/>
+</p>
+
+### 🗄️ Database
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="50"/>
+</p>
+
+### 🌐 Web Technologies
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" width="45"/>
+</p>
+
+### ☁️ Cloud Computing
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="60"/>
+</p>
+
+### ⚙️ Tools & Platforms
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" width="40"/>
+<img src="https://www.kali.org/tools/burpsuite/images/burpsuite-logo.svg" width="40"/>
+<img src="https://beebox.org/images/beebox-logo.png" width="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/7/7b/Snort_logo.png" width="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Wireshark_Logo.svg" width="40"/>
 </p>
 
 ### 🌐 Web Technologies
