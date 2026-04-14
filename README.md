@@ -55,17 +55,32 @@ Aspiring Cybersecurity Analyst | Networking |AWS Cloud | Python Programming
 
 ## 🔥 Projects
 
-🔹 **Virtual Mouse (2023)**  
+### 🖱️ Virtual Mouse Using Computer Vision (2023)
+- Developed a gesture-controlled virtual mouse using Python, OpenCV, and MediaPipe  
+- Enabled touchless cursor control through real-time hand tracking  
 👉 https://github.com/blessy721/Virtual-Mouse  
 
-🔹 **Bulk Email Optimization using SMTP and Streamlit (2022)**  
+---
+
+### 📧 Bulk Email Optimization using SMTP & Streamlit (2022)
+- Built an automated bulk email system using Python (smtplib) and Streamlit UI  
+- Improved efficiency and reduced manual effort in email handling  
 👉 https://github.com/blessy721/Bulk-Email-Optimization  
 
-🔹 **Tic Tac Toe Game using Python (2019)**  
+---
+
+### 🎮 Tic Tac Toe Game using Python (2019)
+- Designed a console-based two-player game with complete game logic  
+- Implemented input validation and win/draw conditions  
 👉 https://github.com/blessy721/Tic-Tac-Toe-  
 
-🔹 **Hospital Management System using Data Structures in python (2025)**  
-👉 https://github.com/blessy721/Hospital-Management-System-using-Python-and-Data-Structures
+---
+
+### 🏥 Hospital Management System using Data Structures (2025)
+- Developed a system to manage patient records and appointments using Python  
+- Applied core data structures for efficient data handling  
+👉 https://github.com/blessy721/Hospital-Management-System-using-Python-and-Data-Structures  
+
 ---
 
 ## 📫 Contact
