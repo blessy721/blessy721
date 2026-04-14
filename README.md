@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Blessy Jefrina H</h1>
 
 <h3 align="center">
-Aspiring Cybersecurity Analyst | Networking | Cloud Computing (AWS) | Python
+Aspiring Cybersecurity Analyst | Networking |AWS Cloud | Python Programming 
 </h3>
 
 <p align="center">
@@ -55,17 +55,17 @@ Aspiring Cybersecurity Analyst | Networking | Cloud Computing (AWS) | Python
 
 ## 🔥 Projects
 
-🔹 **Virtual Mouse Using Computer Vision**  
+🔹 **Virtual Mouse (2023)**  
 👉 https://github.com/blessy721/Virtual-Mouse  
 
-🔹 **Bulk Email Automation (Python)**  
+🔹 **Bulk Email Optimization using SMTP and Streamlit (2022)**  
 👉 https://github.com/blessy721/Bulk-Email-Optimization  
 
-🔹 **Tic Tac Toe Game (Python)**  
+🔹 **Tic Tac Toe Game using Python (2019)**  
 👉 https://github.com/blessy721/Tic-Tac-Toe-  
 
-🔹 **Hospital Management System (Data Structures)**  
-
+🔹 **Hospital Management System using Data Structures in python (2025)**  
+👉 https://github.com/blessy721/Hospital-Management-System-using-Python-and-Data-Structures
 ---
 
 ## 📫 Contact
