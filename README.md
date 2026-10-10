@@ -1,89 +1,83 @@
-<h1 align="center">Hi, I'm Blessy Jefrina H</h1>
+# Hi, I'm Blessy Jefrina H 👋
 
-<h3 align="center">
-Aspiring Cybersecurity Analyst | Networking |AWS Cloud | Python Programming 
-</h3>
+### M.Tech IT Student | Cybersecurity | Python Development | IoT Security Research
 
-<p align="center">
-<a href="mailto:blessyjefrina0821@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
-</a>
-<a href="https://www.linkedin.com/in/blessyjefrina/">
-<img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin">
-</a>
-<a href="https://github.com/blessy721">
-<img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github">
-</a>
-</p>
+I'm pursuing an M.Tech in Information Technology with a specialization in Information and Cyber Warfare. I'm interested in building secure software, analyzing network threats, and exploring intelligent approaches to cybersecurity.
 
----
+My goal is to strengthen my practical skills through hands-on projects, research, and open-source contributions.
 
-## 👩‍💻 About Me
-- Computer Science graduate with strong interest in Cybersecurity, Networking, and Cloud Computing  
-- Skilled in Python, SQL, and Web Technologies  
-- Hands-on experience with security tools and real-time projects  
-- Actively seeking entry-level opportunities in Cybersecurity / Networking / Cloud  
+## 🎓 About Me
 
----
+* 🎯 Currently pursuing M.Tech in Information Technology (2025–2027)
+* 🔐 Interested in Cybersecurity, Network Security, and Cyber Defense
+* 🐍 Working with Python and exploring security-focused development
+* 🌐 Interested in IoT security and machine-learning-based intrusion detection
+* ☁️ Exploring cloud computing and secure software development
+* 📚 Continuously learning through projects, research, and technical practice
 
-## 🚀 Technical Skills
+## 🛠️ Technical Skills
 
-### 💻 Programming & Core Concepts
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="25"/> Python  
-<img src="https://img.icons8.com/ios-filled/50/000000/data-configuration.png" width="25"/> Data Structures  
+**Programming:** Python, C, SQL
 
-### 🗄️ Database
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="25"/> SQL  
+**Web Development:** HTML, CSS, JavaScript, AngularJS
 
-### 🌐 Web Technologies
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="25"/> HTML  
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="25"/> CSS  
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="25"/> JavaScript  
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" width="25"/> AngularJS  
+**Cybersecurity & Networking:** Kali Linux, Wireshark, Burp Suite, Nmap
 
-### ☁️ Cloud Computing
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" width="25"/> AWS  
+**Cloud & Platforms:** AWS, Ubuntu, Google Colab
 
-### 🔐 Cybersecurity & Networking
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="25"/> Kali Linux  
-<img src="https://img.icons8.com/color/48/burp-suite.png" width="25"/> Burp Suite  
-<img src="https://img.icons8.com/color/48/bug.png" width="25"/> BeeBox  
-<img src="https://upload.wikimedia.org/wikipedia/commons/7/7b/Snort_logo.png" width="25"/> Snort  
-<img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Wireshark_Logo.svg" width="25"/> Wireshark  
+**Other Tools:** VS Code, UiPath Studio, Mininet
 
----
+**Core Concepts:** Data Structures, Network Security, Cybersecurity, Cloud Computing, Software Testing
 
-## 🔥 Projects
+## 🚀 Projects & Research
 
-### 🖱️ Virtual Mouse Using Computer Vision (2023)
-- Developed a gesture-controlled virtual mouse using Python, OpenCV, and MediaPipe  
-- Enabled touchless cursor control through real-time hand tracking  
-👉 https://github.com/blessy721/Virtual-Mouse  
+### 1. Federated Transformer-Based Framework for Real-Time Intrusion Detection and Security Response in IoT Networks
 
----
+Research interest: intelligent threat detection and security response in IoT environments.
 
-### 📧 Bulk Email Optimization using SMTP & Streamlit (2022)
-- Built an automated bulk email system using Python (smtplib) and Streamlit UI  
-- Improved efficiency and reduced manual effort in email handling  
-👉 https://github.com/blessy721/Bulk-Email-Optimization  
+### 2. Multi-Class IoT Network Attack Detection Using Transformer Models
 
----
+Research interest: applying Transformer-based models to classify network attacks.
 
-### 🎮 Tic Tac Toe Game using Python (2019)
-- Designed a console-based two-player game with complete game logic  
-- Implemented input validation and win/draw conditions  
-👉 https://github.com/blessy721/Tic-Tac-Toe-  
+### 3. Hospital Management System
 
----
+A Python-based project focused on hospital management and data structures.
 
-### 🏥 Hospital Management System using Data Structures (2025)
-- Developed a system to manage patient records and appointments using Python  
-- Applied core data structures for efficient data handling  
-👉 https://github.com/blessy721/Hospital-Management-System-using-Python-and-Data-Structures  
+### 4. Bulk Email Optimization
+
+A Python project focused on email-related task automation.
+
+### 5. Virtual Mouse
+
+A project exploring an alternative approach to computer mouse interaction.
+
+### 6. E-Cart Shopping Automation
+
+A shopping workflow automation project developed using UiPath RPA.
+
+> Project descriptions will be expanded with implementation details, screenshots, setup instructions, and results as the repositories are documented.
+
+## 📜 Certifications & Learning
+
+* Python Programming — EduPrep
+* HTML, CSS and JavaScript for Web Developers — Coursera
+* HTML & CSS: Building a Single-Page Website — Coursera
+* IBM Project Certification
+* 5G Technology Paper Presentation Workshop
+
+## 🎯 Current Goals
+
+* Build practical cybersecurity and Python projects
+* Improve network traffic analysis and intrusion detection skills
+* Develop well-documented, reproducible research projects
+* Contribute to open-source software
+* Prepare for entry-level cybersecurity and software engineering opportunities
+
+## 🤝 Connect With Me
+
+* GitHub: [@blessy721](https://github.com/blessy721)
+* LinkedIn: [Connect with me](https://www.linkedin.com/in/blessyjefrina/)
 
 ---
 
-## 📫 Contact
-
-📧 Email: blessyjefrina0821@gmail.com  
-🔗 LinkedIn: https://www.linkedin.com/in/blessyjefrina/
+*Learning continuously. Building responsibly. Exploring cybersecurity one project at a time.*
