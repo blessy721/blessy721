@@ -1,32 +1,53 @@
+
+<!-- ======================================================= -->
+<!--              BLESSY JEFRINA H - GITHUB PROFILE          -->
+<!-- ======================================================= -->
+
+<div align="center">
+
 # 👋 Hi, I'm Blessy Jefrina H
 
-### 🎓 M.Tech IT Student | Cybersecurity | Python Developer | IoT Security Research
+### M.Tech IT | Cybersecurity | Python Development | IoT Security Research
 
 **SECURE • BUILD • INNOVATE**
 
-I'm pursuing an M.Tech in Information Technology with a specialization in Information and Cyber Warfare at National Engineering College, Tamil Nadu. I'm passionate about cybersecurity, network defense, secure software development, and intelligent intrusion detection for IoT environments.
+Building technical skills at the intersection of cybersecurity, network defense, and secure software development.
 
-I enjoy exploring technologies, developing practical solutions, and applying my technical knowledge to real-world security challenges.
+<p>
+  <a href="https://github.com/blessy721">
+    <img src="https://img.shields.io/badge/GitHub-blessy721-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/blessyjefrina/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:blessyjefrina0821@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
 
-[![GitHub](https://img.shields.io/badge/GitHub-blessy721-181717?style=for-the-badge\&logo=github)](https://github.com/blessy721)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/blessyjefrina/)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:blessyjefrina0821@gmail.com)
+</div>
 
 ---
 
 ## 👩‍💻 About Me
 
-* 🎓 Pursuing **M.Tech in Information Technology (2025–2027)**
-* 🔐 Specialization in **Information and Cyber Warfare**
-* 🛡️ Interested in network security, cyber defense, and intrusion detection
-* 🐍 Working with Python, C, SQL, and web technologies
-* 🌐 Exploring IoT security and Transformer-based network attack detection
-* ☁️ Interested in cloud computing and secure software engineering
-* 📚 Continuously improving my technical, analytical, and problem-solving skills
+I am an **M.Tech Information Technology student specializing in Information and Cyber Warfare**, passionate about cybersecurity, secure software engineering, network defense, and intelligent threat detection.
+
+My technical interests include Python development, network security analysis, and Transformer-based approaches to IoT intrusion detection. Through academic projects and research, I aim to explore practical approaches to identifying security threats and developing reliable software solutions.
+
+I am continuously strengthening my programming, analytical, and problem-solving skills through hands-on projects, technical experimentation, and research.
+
+- 🎓 **Education:** M.Tech in Information Technology (2025–2027)
+- 🔐 **Specialization:** Information and Cyber Warfare
+- 🛡️ **Primary Interest:** Cybersecurity and Network Defense
+- 🐍 **Programming:** Python, C, SQL
+- 🌐 **Research Interest:** IoT Intrusion Detection and Transformer Models
+- ☁️ **Exploring:** Cloud Computing and Secure Software Development
+- 🎯 **Career Goal:** Cybersecurity, Security Engineering, or Software Development
 
 ---
 
-## 🛠️ Technical Skills & Technology Stack
+## 🛠️ Technical Skills
 
 ### 💻 Programming Languages
 
@@ -52,8 +73,8 @@ I enjoy exploring technologies, developing practical solutions, and applying my 
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark"/>
   <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" alt="Burp Suite"/>
   <img src="https://img.shields.io/badge/Nmap-214478?style=for-the-badge" alt="Nmap"/>
-  <img src="https://img.shields.io/badge/bWAPP-Lab-555555?style=for-the-badge" alt="bWAPP"/>
-  <img src="https://img.shields.io/badge/Mininet-Networking-555555?style=for-the-badge" alt="Mininet"/>
+  <img src="https://img.shields.io/badge/Mininet-Network_Emulation-1679A7?style=for-the-badge" alt="Mininet"/>
+  <img src="https://img.shields.io/badge/bWAPP-Security_Lab-555555?style=for-the-badge" alt="bWAPP"/>
 </p>
 
 ### ☁️ Cloud, Development & Productivity Tools
@@ -73,108 +94,128 @@ I enjoy exploring technologies, developing practical solutions, and applying my 
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Projects & Research
 
-### 🛡️ 1. Federated Transformer-Based Framework for Real-Time Intrusion Detection and Security Response in IoT Networks
-
-**Year:** 2026
-
-Research focused on intelligent intrusion detection and security response in IoT network environments.
-
-**Areas:** IoT Security · Intrusion Detection · Transformer Models · Network Defense
-
-🔗 [Explore my repositories](https://github.com/blessy721?tab=repositories)
-
-### 🤖 2. Multi-Class IoT Network Attack Detection Using Transformer Models
+### 1. 🛡️ Federated Transformer-Based Framework for Real-Time Intrusion Detection and Security Response in IoT Networks
 
 **Year:** 2026
 
-Research project focused on applying Transformer-based models to the classification of IoT network attacks.
+- **Domain:** Cybersecurity, IoT Security, Intrusion Detection
+- **Technologies:** Transformer Models, Federated Learning, IoT Network Security
+- **Overview:** Research focused on a federated Transformer-based approach to real-time intrusion detection and security response in IoT network environments.
 
-**Areas:** Machine Learning · IoT Security · Network Attack Classification
+**Repository:** [View my GitHub repositories](https://github.com/blessy721?tab=repositories)
 
-🔗 [Explore my repositories](https://github.com/blessy721?tab=repositories)
+### 2. 🤖 Multi-Class IoT Network Attack Detection Using Transformer Models
 
-### 🏥 3. Hospital Management System
+**Year:** 2026
+
+- **Domain:** Artificial Intelligence, Machine Learning, Network Security
+- **Technologies:** Transformer Models, Network Attack Classification
+- **Overview:** Research investigating Transformer-based approaches for classifying multiple categories of IoT network attacks.
+
+**Repository:** [View my GitHub repositories](https://github.com/blessy721?tab=repositories)
+
+### 3. 🏥 Hospital Management System
 
 **Year:** 2025
 
-A Python-based hospital management project involving data structures and healthcare-related information management.
+- **Domain:** Software Development, Healthcare Information Management
+- **Technologies:** Python, Data Structures
+- **Overview:** A Python-based project focused on hospital management operations and the application of data structures.
 
-**Technologies:** Python · Data Structures
-
-### 🖱️ 4. Virtual Mouse
+### 4. 🖱️ Virtual Mouse
 
 **Year:** 2023
 
-A project exploring alternative computer mouse interaction.
+- **Domain:** Application Development, Human–Computer Interaction
+- **Technology:** Python
+- **Overview:** A project exploring alternative computer mouse interaction through a virtual mouse application.
 
-**Area:** Python Development
+### 5. 🩸 Plasma Donor Application
 
-### 📧 5. Bulk Email Optimization
+**Year:** 2022
+
+- **Domain:** Healthcare Technology, Donor Management
+- **Technologies:** To be added based on the implementation
+- **Overview:** An application project related to plasma donor information and donor coordination.
+
+### 6. 📧 Bulk Email Optimization
 
 **Year:** 2021
 
-A Python project focused on email-related processing and automation.
+- **Domain:** Python Development, Email Automation
+- **Technology:** Python
+- **Overview:** A project focused on optimizing bulk email-related tasks.
 
-**Technology:** Python
-
-### 🛒 6. E-Cart Shopping Using UiPath RPA
+### 7. 🛒 E-Cart Shopping Using UiPath RPA
 
 **Year:** 2020
 
-A shopping workflow automation project developed using UiPath Robotic Process Automation.
+- **Domain:** Robotic Process Automation, Workflow Automation
+- **Technology:** UiPath Studio
+- **Overview:** A shopping workflow automation project developed using UiPath RPA.
 
-**Technology:** UiPath Studio · RPA
+### 8. 🎮 Tic Tac Toe Using Python
 
-> **Note:** Replace the general repository links above with direct project URLs once the corresponding repositories are available. Add implementation details, datasets, screenshots, metrics, and setup instructions where applicable. Do not claim features or results that you have not implemented or measured.
+**Year:** 2019
+
+- **Domain:** Programming Fundamentals, Game Development
+- **Technology:** Python
+- **Overview:** A simple game development project implementing Tic Tac Toe using Python.
+
+> **Note:** Add direct repository links, implementation details, datasets, screenshots, and measured results to each project when available. Confirm the actual tools and technologies used before listing them as implemented.
 
 ---
 
 ## 🎓 Education
 
-**Master of Technology — Information Technology**
+### Master of Technology (M.Tech) — Information Technology
 
-National Engineering College, Tamil Nadu | 2025–2027
+**National Engineering College, Tamil Nadu**
 
-Specialization: Information and Cyber Warfare
+2025–2027 | Currently Pursuing
 
-Current GPA: 8.44
+- Specialization: Information and Cyber Warfare
+- Current GPA: 8.44
 
-**Bachelor of Engineering — Computer Science and Engineering**
+### Bachelor of Engineering (B.E.) — Computer Science and Engineering
 
-KGISL Institute of Technology, Coimbatore | 2019–2023
+**KGISL Institute of Technology, Coimbatore**
 
-CGPA: 8.384 — First Class
+2019–2023
+
+- CGPA: 8.384
+- First Class
 
 ---
 
 ## 📜 Certifications & Workshops
 
-* 🐍 Python Programming — EduPrep
-* 🌐 HTML, CSS and JavaScript for Web Developers — Coursera
-* 💻 HTML & CSS: Building a Single-Page Website — Coursera
-* 📘 IBM Project Certification — 82.9%
-* 📡 5G Technology Paper Presentation Workshop
+- 🐍 Python Programming — EduPrep
+- 🌐 HTML, CSS and JavaScript for Web Developers — Coursera
+- 💻 HTML & CSS: Building a Single-Page Website — Coursera
+- 📘 IBM Project Certification — 82.9%
+- 📡 5G Technology Paper Presentation Workshop
 
 ---
 
 ## 🎯 Current Focus
 
-* Strengthening practical cybersecurity and network analysis skills
-* Developing reproducible IoT intrusion detection research
-* Improving Python programming and software engineering practices
-* Building well-documented, portfolio-ready projects
-* Learning cloud security and secure application development
-* Exploring meaningful open-source contributions
+- Strengthening cybersecurity and network traffic analysis skills
+- Exploring Transformer-based IoT intrusion detection
+- Improving Python programming and software engineering practices
+- Building practical, documented, and reproducible projects
+- Learning cloud computing and secure application development
+- Exploring open-source collaboration and research opportunities
 
 ---
 
-## 📫 Let's Connect!
+## 📫 Let's Connect
 
-I'm interested in connecting with cybersecurity professionals, developers, researchers, and recruiters for learning, collaboration, and entry-level opportunities.
+I welcome opportunities to learn, collaborate, and contribute to projects involving cybersecurity, software development, and emerging technologies.
 
-<p>
+<p align="left">
   <a href="https://github.com/blessy721">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
@@ -188,4 +229,10 @@ I'm interested in connecting with cybersecurity professionals, developers, resea
 
 ---
 
-⭐ *Always learning. Always building. Always securing.*
+<div align="center">
+
+**Always Learning • Always Building • Always Improving**
+
+*Developing secure solutions through continuous learning and practical experience.*
+
+</div>
