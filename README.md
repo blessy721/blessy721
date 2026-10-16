@@ -1,4 +1,10 @@
 
+![GitHub Profile Banner](./github-banner.png)
+
+# Hi, I'm Blessy Jefrina 👋
+
+### Cybersecurity | Network Security | Python
+
 <!-- ======================================================= -->
 <!--              BLESSY JEFRINA H - GITHUB PROFILE          -->
 <!-- ======================================================= -->
