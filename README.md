@@ -1,9 +1,11 @@
  <!-- PROFILE BANNER -->
 <p align="center">
-  <img src="./Cybersecurity%20Researcher%20GitHub%20Banner.png" width="850" alt="Cybersecurity Researcher GitHub Banner"/>
+  <img
+    src="./Cybersecurity%20Researcher%20GitHub%20Banner.png"
+    width="650"
+    alt="Cybersecurity Researcher GitHub Banner"
+  />
 </p>
-
-<div align="center">
 
 # Hi, I'm Blessy Jefrina H 👋
 
@@ -68,7 +70,7 @@ I am actively engaged in cybersecurity research, focusing on IoT Network Securit
 ### 🛡️ 1. Multi-Class IoT Network Attack Detection Using Transformer Models
 
 - **Publication:** IEEE
-- **Status:** Accepted
+- **Status:** Accepted and Under Publication
 - **Author Role:** First Author
 - **Research Area:** IoT Security, Transformer Models, Multi-Class Intrusion Detection
 
@@ -77,9 +79,9 @@ I am actively engaged in cybersecurity research, focusing on IoT Network Securit
 ### 🤖 2. Federated Transformer-Based Framework for Real-Time IDS and Security Response in IoT Networks
 
 - **Publication:** Scopus-Indexed Journal Submission
-- **Status:** Under Review
+- **Status:**Submitted and Under Review
 - **Author Role:** First Author
-- **Research Area:** Federated Learning, IoT Security, Intelligent Intrusion Detection
+- **Research Area:** Federated Learning, IoT Security, Intelligent Intrusion Detection , TabTransformer models in Deep Learning
 
 🔗 [View Journal Research Repository](https://github.com/blessy721/A-Federated-Transformer-Based-Framework-for-Real-Time-IDS-and-Security-Response-in-IoT-Networks)
 
