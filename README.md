@@ -53,36 +53,39 @@ I enjoy combining research, technical experimentation and practical development 
 **My Goal:** To grow as a cybersecurity professional and researcher by developing practical security solutions and contributing to meaningful technical research.
 
 ---
-## 🔬 Research Publications & Experience
+## 🔬 Research Publications
 
-I am actively involved in cybersecurity research, focusing on **IoT Network Security, AI-driven Intrusion Detection, Transformer Models, and Federated Learning**.
+I am actively engaged in cybersecurity research, with a focus on IoT Network Security, Transformer-Based Intrusion Detection, and Federated Learning.
 
-### 📄 1. Multi-Class IoT Network Attack Detection Using Transformer Models
+### 🛡️ 1. Multi-Class IoT Network Attack Detection Using Transformer Models
 
-- **Publication Status:** Accepted ( Under Publication ) 
 - **Publication:** IEEE
+- **Status:** Manuscript Accepted and Under Publication 
 - **Author Role:** First Author
-- **Dataset:** Public Kaggle Dataset
-- **Implementation:** Python | Multiple ML/DL Frameworks
-- **Research Focus:** Multi-class classification of IoT network attacks using Transformer-based approaches.
+- **Research Domain:** Cybersecurity, IoT Security, Network Intrusion Detection
+- **Technologies:** Python, Deep Learning, Transformer Models
+- **Dataset:** ToN-IoT
 
-### 📄 2. Federated Transformer-Based Framework for Real-Time IDS and Security Response in IoT Networks
+🔗 **[Explore Research Repository](YOUR_IEEE_REPOSITORY_URL)**
 
-- **Publication Status:** Under Review
-- **Publication Type:** Scopus-indexed Journal Submission
+### 🤖 2. Federated Transformer-Based Framework for Real-Time IDS and Security Response in IoT Networks
+
+- **Publication:** Scopus-Indexed Journal Submission
+- **Status:** Submitted and Under Review
 - **Author Role:** First Author
-- **Dataset:** Self-Collected Dataset
-- **Implementation:** Python | Multiple ML/DL Frameworks
-- **Research Focus:** Federated learning and TabTransformer-based deep learning approaches for real-time intrusion detection and security response in IoT networks.
+- **Research Domain:** Cybersecurity, IoT Network Security, Federated Learning
+- **Technologies:** Python, TabTransformer Models , deep learning , Federated Learning
 
-### 🧪 Research & Implementation Experience
+*Research implementation and supporting materials are currently not publicly shared.*
 
-- Hands-on experience working with public and self-collected datasets.
-- Developed separate Google Colab notebooks for research implementations.
-- Practical experience with multiple machine learning and deep learning frameworks.
-- Research interests include intelligent threat detection, IoT security, network intrusion detection, and federated learning.
+### 🧪 Research Interests
 
-*Note: Research manuscripts, datasets, notebooks, and unpublished experimental details are not publicly shared while publication and confidentiality requirements are pending.*
+- AI-Driven Intrusion Detection Systems
+- IoT Network Security
+- Transformer-Based Deep Learning
+- Federated Learning for Cybersecurity
+- Network Attack Classification
+- Intelligent Security Response
 
 ## 🛠️ Technical Skills
 
@@ -190,27 +193,9 @@ I am actively involved in cybersecurity research, focusing on **IoT Network Secu
 
 ## 🚀 Featured Projects & Research
 
-### 🛡️ 1. Federated Transformer-Based Framework for Real-Time Intrusion Detection and Security Response in IoT Networks
 
-**Year:** 2026
 
-- **Domain:** Cybersecurity, IoT Security, Intrusion Detection
-- **Technologies:** Transformer Models, Federated Learning, IoT Network Security
-- **Overview:** Research focused on a federated Transformer-based approach to real-time intrusion detection and security response in IoT network environments.
-
-🔗 [Explore GitHub Repositories](https://github.com/blessy721?tab=repositories)
-
-### 🤖 2. Multi-Class IoT Network Attack Detection Using Transformer Models
-
-**Year:** 2026
-
-- **Domain:** Artificial Intelligence, Machine Learning, Network Security
-- **Technologies:** Transformer Models, Network Attack Classification
-- **Overview:** Research investigating Transformer-based approaches for classifying multiple categories of IoT network attacks.
-
-🔗 [Explore GitHub Repositories](https://github.com/blessy721?tab=repositories)
-
-### 🖱️ 3. Virtual Mouse
+### 🖱️ 1. Virtual Mouse
 
 **Year:** 2023
 
@@ -220,7 +205,7 @@ I am actively involved in cybersecurity research, focusing on **IoT Network Secu
 
 🔗 [View Virtual Mouse Repository](https://github.com/blessy721/Virtual-Mouse)
 
-### 📧 4. Bulk Email Optimization
+### 📧 2. Bulk Email Optimization
 
 **Year:** 2021
 
@@ -230,7 +215,7 @@ I am actively involved in cybersecurity research, focusing on **IoT Network Secu
 
 🔗 [View Bulk Email Optimization Repository](https://github.com/blessy721/Bulk-Email-Optimization)
 
-### 🏥 5. Hospital Management System
+### 🏥 3. Hospital Management System using advanced data structures
 
 **Year:** 2025
 
@@ -272,7 +257,7 @@ I am actively involved in cybersecurity research, focusing on **IoT Network Secu
 2025–2027 | Currently Pursuing
 
 - Specialization: Information and Cyber Warfare
-- Current GPA: 8.44
+- Current GPA: 8.44 ( upto 2nd semester ) 
 
 ### Bachelor of Engineering (B.E.) — Computer Science and Engineering
 
