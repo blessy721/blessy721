@@ -79,7 +79,7 @@ I am actively engaged in cybersecurity research, focusing on IoT Network Securit
 ### 🤖 2. Federated Transformer-Based Framework for Real-Time IDS and Security Response in IoT Networks
 
 - **Publication:** Scopus-Indexed Journal Submission
-- **Status:**Submitted and Under Review
+- **Status:** Submitted and Under Review
 - **Author Role:** First Author
 - **Research Area:** Federated Learning, IoT Security, Intelligent Intrusion Detection , TabTransformer models in Deep Learning
 
