@@ -54,86 +54,98 @@ I enjoy combining research, technical experimentation and practical development 
 
 ---
 
-## 🔐 Cybersecurity & Networking
+
+## 🛠️ Technical Skills
+
+### 🔐 1. Cybersecurity & Security Tools
 
 <p>
   <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux"/>
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark"/>
   <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" alt="Burp Suite"/>
   <img src="https://img.shields.io/badge/Nmap-214478?style=for-the-badge" alt="Nmap"/>
-  <img src="https://img.shields.io/badge/Mininet-Network_Emulation-1679A7?style=for-the-badge" alt="Mininet"/>
   <img src="https://img.shields.io/badge/bWAPP-Security_Lab-555555?style=for-the-badge" alt="bWAPP"/>
 </p>
 
-**Core Concepts**
+**Areas of Interest:**
+- Cybersecurity and Information Security
+- Vulnerability Assessment
+- Intrusion Detection Systems
+- Security Analysis
+- Threat Detection
 
-`Cybersecurity` · `Network Security` · `Information Security` · `Computer Networks` · `Network Traffic Analysis` · `Intrusion Detection` · `Vulnerability Assessment`
+### 🌐 2. Networking & Network Security
 
----
+<p>
+  <img src="https://img.shields.io/badge/Mininet-Network_Emulation-1679A7?style=for-the-badge" alt="Mininet"/>
+  <img src="https://img.shields.io/badge/Wireshark-Network_Analysis-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark"/>
+  <img src="https://img.shields.io/badge/Nmap-Network_Scanning-214478?style=for-the-badge" alt="Nmap"/>
+</p>
 
-## 🌐 Networking & Network Technologies
+**Core Concepts:**
 
-- Computer Networks
-- Network Security
-- Network Protocols
-- Network Traffic Analysis
-- IoT Network Security
-- Network Emulation using Mininet
+`Computer Networks` · `Network Protocols` · `Network Security` · `Network Traffic Analysis` · `IoT Network Security` · `Network Emulation`
 
----
+### 🤖 3. Artificial Intelligence & Machine Learning
 
-## 🤖 Artificial Intelligence & Machine Learning
+<p>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+</p>
 
-**Areas of Interest**
-
+**Areas of Interest:**
 - Machine Learning
-- AI-Based Threat Detection
+- Classification Algorithms
 - Network Attack Classification
-- Intelligent Intrusion Detection
+- AI-Driven Threat Detection
+- Data Analysis and Preprocessing
+
+### 🧠 4. Deep Learning & Computer Vision
+
+<p>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/>
+</p>
+
+**Research Interests:**
+- Deep Learning Architectures
 - Transformer-Based Models
 - Federated Learning
-
----
-
-## 🧠 Deep Learning & Research
-
-My research interests focus on exploring deep learning approaches for cybersecurity applications.
-
-**Research Areas**
-
-- Deep Learning
-- Transformer Architectures
+- Computer Vision
 - IoT Intrusion Detection
-- Multi-Class Attack Classification
-- Real-Time Threat Detection
-- Federated Learning for IoT Security
+- Intelligent Security Systems
 
----
-
-## 🐍 Programming Languages & Development
+### 🐍 5. Programming & Data Analysis
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+</p>
+
+### 🗄️ 6. Database Management
+
+<p>
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
 </p>
 
----
+**Core Concepts:** `SQL Queries` · `Database Management` · `Data Handling`
 
-## ☁️ Cloud, Development & Productivity Tools
+### ☁️ 7. Cloud, Operating Systems & Development Tools
 
 <p>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS"/>
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu"/>
   <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black" alt="Google Colab"/>
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
   <img src="https://img.shields.io/badge/UiPath-FA4616?style=for-the-badge&logo=uipath&logoColor=white" alt="UiPath"/>
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu"/>
-  <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white" alt="Microsoft Office"/>
 </p>
 
----
-
-## 💻 Frontend Development
+### 💻 8. Frontend Development
 
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
@@ -141,6 +153,9 @@ My research interests focus on exploring deep learning approaches for cybersecur
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=white" alt="AngularJS"/>
 </p>
+
+---
+
 
 ---
 
