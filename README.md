@@ -29,29 +29,33 @@ Exploring cybersecurity, network security and AI-driven threat detection through
 
 ## 👩‍💻 About Me
 
-I am a **final-year M.Tech Cybersecurity student** passionate about cybersecurity research, network defense and intelligent security solutions.
+I am a **final-year M.Tech student specializing in Information Technology – Cyber Security**, with a strong interest in cybersecurity research, network security, and AI-driven security solutions.
 
-My technical and research interests include:
+I am passionate about exploring intelligent approaches to cybersecurity challenges through research, technical experimentation, and practical implementation.
 
-- 🔐 **Cybersecurity:** Information security, security analysis and threat detection.
-- 🌐 **Networking:** Network protocols, traffic analysis and network security.
-- 🤖 **Artificial Intelligence & Machine Learning:** Applying intelligent techniques to cybersecurity challenges.
-- 🧠 **Deep Learning:** Exploring advanced models for security analysis and intrusion detection.
-- 🐍 **Python:** Programming, automation and security-oriented development.
-- 🗄️ **SQL:** Database management and querying.
+### 🔍 Technical & Research Interests
 
-I enjoy combining research, technical experimentation and practical development to understand security challenges and explore effective solutions.
+- 🔐 **Cybersecurity:** Information security, threat detection, network defense, and security analysis.
+- 🌐 **Networking:** Network protocols, traffic analysis, network monitoring, and network security.
+- 🤖 **Artificial Intelligence & Machine Learning:** Applying intelligent learning techniques to cybersecurity challenges.
+- 🧠 **Deep Learning:** Exploring Transformer architectures and deep learning approaches for intrusion detection.
+- 🐍 **Python Programming:** Research implementation, data processing, and automation.
+- 🗄️ **Database Management:** SQL and database querying.
+
+I enjoy combining academic research with hands-on technical experience to explore security challenges and develop intelligent solutions.
 
 ### 🎯 Current Research Interests
 
-- IoT Intrusion Detection Systems
+- IoT Network Security and Intrusion Detection Systems
 - Transformer-Based Network Attack Classification
-- AI/ML-Driven Cybersecurity
+- Federated Learning for Cybersecurity
+- AI/ML-Driven Threat Detection
 - Network Traffic Analysis
-- Intelligent Threat Detection
+- Intelligent Security Response
 
-**My Goal:** To grow as a cybersecurity professional and researcher by developing practical security solutions and contributing to meaningful technical research.
+### 🚀 Career Goal
 
+To grow as a **Cybersecurity Researcher and Professional**, contribute to meaningful research, and develop innovative solutions that strengthen network security and protect connected environments.
 ---
 ## 🔬 Research Publications
 
