@@ -55,37 +55,43 @@ I enjoy combining research, technical experimentation and practical development 
 ---
 ## 🔬 Research Publications
 
-I am actively engaged in cybersecurity research, with a focus on IoT Network Security, Transformer-Based Intrusion Detection, and Federated Learning.
+I am actively engaged in cybersecurity research, focusing on IoT Network Security, Transformer-Based Intrusion Detection, and Federated Learning.
 
 ### 🛡️ 1. Multi-Class IoT Network Attack Detection Using Transformer Models
 
 - **Publication:** IEEE
-- **Status:** Manuscript Accepted and Under Publication 
+- **Status:** Under Publication
 - **Author Role:** First Author
-- **Research Domain:** Cybersecurity, IoT Security, Network Intrusion Detection
-- **Technologies:** Python, Deep Learning, Transformer Models
-- **Dataset:** ToN-IoT
+- **Research Area:** IoT Security, Transformer Models, Multi-Class Intrusion Detection
 
-🔗 **[Explore Research Repository](YOUR_IEEE_REPOSITORY_URL)**
+🔗 [View IEEE Research Repository](https://github.com/blessy721/Multi-Class-IoT-Network-Attack-Detection-Using-Transformer-Models)
 
 ### 🤖 2. Federated Transformer-Based Framework for Real-Time IDS and Security Response in IoT Networks
 
 - **Publication:** Scopus-Indexed Journal Submission
-- **Status:** Submitted and Under Review
+- **Status:** Under Review
 - **Author Role:** First Author
-- **Research Domain:** Cybersecurity, IoT Network Security, Federated Learning
-- **Technologies:** Python, TabTransformer Models , deep learning , Federated Learning
+- **Research Area:** Federated Learning, IoT Security, Intelligent Intrusion Detection
 
-*Research implementation and supporting materials are currently not publicly shared.*
+🔗 [View Journal Research Repository](https://github.com/blessy721/A-Federated-Transformer-Based-Framework-for-Real-Time-IDS-and-Security-Response-in-IoT-Networks)
 
-### 🧪 Research Interests
+---
 
-- AI-Driven Intrusion Detection Systems
-- IoT Network Security
-- Transformer-Based Deep Learning
-- Federated Learning for Cybersecurity
-- Network Attack Classification
-- Intelligent Security Response
+## 👩‍💻 About the Author
+
+**Blessy Jefrina H**
+
+B.E. (Computer Science and Engineering)  
+M.Tech. (Information Technology – Cyber Security)  
+**Postgraduate Scholar**
+
+Research interests include Cybersecurity, IoT Network Security, Artificial Intelligence, Deep Learning, Federated Learning, and Intelligent Intrusion Detection Systems.
+
+<p align="center">
+  <b>💙 Learn • Research • Secure • Innovate 💙</b>
+  <br/>
+  <i>Exploring intelligent approaches to a safer connected world.</i>
+</p> 
 
 ## 🛠️ Technical Skills
 
