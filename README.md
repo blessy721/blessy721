@@ -1,4 +1,4 @@
-
+ <!-- PROFILE BANNER -->
 <p align="center">
   <img src="./Cybersecurity%20Researcher%20GitHub%20Banner.png" width="850" alt="Cybersecurity Researcher GitHub Banner"/>
 </p>
@@ -57,8 +57,10 @@ I enjoy combining academic research with hands-on technical experience to explor
 
 ### 🚀 Career Goal
 
-**My Goal:** To grow as a Cybersecurity Researcher and Professional, contribute to meaningful research, and develop innovative solutions that strengthen network security and protect connected environments.
+My goal is to grow as a Cybersecurity Researcher and Professional, contribute to meaningful research, and develop innovative solutions that strengthen network security and protect connected environments.
+
 ---
+
 ## 🔬 Research Publications
 
 I am actively engaged in cybersecurity research, focusing on IoT Network Security, Transformer-Based Intrusion Detection, and Federated Learning.
@@ -66,7 +68,7 @@ I am actively engaged in cybersecurity research, focusing on IoT Network Securit
 ### 🛡️ 1. Multi-Class IoT Network Attack Detection Using Transformer Models
 
 - **Publication:** IEEE
-- **Status:** Under Publication
+- **Status:** Accepted
 - **Author Role:** First Author
 - **Research Area:** IoT Security, Transformer Models, Multi-Class Intrusion Detection
 
@@ -82,22 +84,6 @@ I am actively engaged in cybersecurity research, focusing on IoT Network Securit
 🔗 [View Journal Research Repository](https://github.com/blessy721/A-Federated-Transformer-Based-Framework-for-Real-Time-IDS-and-Security-Response-in-IoT-Networks)
 
 ---
-
-## 👩‍💻 About the Author
-
-**Blessy Jefrina H**
-
-B.E. (Computer Science and Engineering)  
-M.Tech. (Information Technology – Cyber Security)  
-**Postgraduate Scholar**
-
-Research interests include Cybersecurity, IoT Network Security, Artificial Intelligence, Deep Learning, Federated Learning, and Intelligent Intrusion Detection Systems.
-
-<p align="center">
-  <b>💙 Learn • Research • Secure • Innovate 💙</b>
-  <br/>
-  <i>Exploring intelligent approaches to a safer connected world.</i>
-</p> 
 
 ## 🛠️ Technical Skills
 
@@ -200,12 +186,7 @@ Research interests include Cybersecurity, IoT Network Security, Artificial Intel
 
 ---
 
-
----
-
-## 🚀 Featured Projects & Research
-
-
+## 🚀 Featured Projects
 
 ### 🖱️ 1. Virtual Mouse
 
@@ -227,7 +208,7 @@ Research interests include Cybersecurity, IoT Network Security, Artificial Intel
 
 🔗 [View Bulk Email Optimization Repository](https://github.com/blessy721/Bulk-Email-Optimization)
 
-### 🏥 3. Hospital Management System using advanced data structures
+### 🏥 3. Hospital Management System Using Advanced Data Structures
 
 **Year:** 2025
 
@@ -235,14 +216,14 @@ Research interests include Cybersecurity, IoT Network Security, Artificial Intel
 - **Technologies:** Python, Data Structures
 - **Overview:** A Python-based project focused on hospital management operations and the application of data structures.
 
-### 🩸 6. Plasma Donor Application
+### 🩸 4. Plasma Donor Application
 
 **Year:** 2022
 
 - **Domain:** Healthcare Technology, Donor Management
 - **Overview:** An application project related to plasma donor information and donor coordination.
 
-### 🛒 7. E-Cart Shopping Using UiPath RPA
+### 🛒 5. E-Cart Shopping Using UiPath RPA
 
 **Year:** 2020
 
@@ -250,7 +231,7 @@ Research interests include Cybersecurity, IoT Network Security, Artificial Intel
 - **Technology:** UiPath Studio
 - **Overview:** A shopping workflow automation project developed using UiPath RPA.
 
-### 🎮 8. Tic Tac Toe Using Python
+### 🎮 6. Tic Tac Toe Using Python
 
 **Year:** 2019
 
@@ -268,8 +249,8 @@ Research interests include Cybersecurity, IoT Network Security, Artificial Intel
 
 2025–2027 | Currently Pursuing
 
-- Specialization: Information and Cyber Warfare
-- Current GPA: 8.44 ( upto 2nd semester ) 
+- **Specialization:** Information and Cyber Warfare
+- **Current GPA:** 8.44 (up to 2nd semester)
 
 ### Bachelor of Engineering (B.E.) — Computer Science and Engineering
 
@@ -277,8 +258,8 @@ Research interests include Cybersecurity, IoT Network Security, Artificial Intel
 
 2019–2023
 
-- CGPA: 8.384
-- First Class
+- **CGPA:** 8.384
+- **Classification:** First Class
 
 ---
 
