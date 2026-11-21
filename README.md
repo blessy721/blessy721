@@ -1,5 +1,7 @@
 
-![GitHub Profile Banner](./Cybersecurity%20Researcher%20GitHub%20Banner.png)
+<p align="center">
+  <img src="./Cybersecurity%20Researcher%20GitHub%20Banner.png" width="850" alt="Cybersecurity Researcher GitHub Banner"/>
+</p>
 
 <div align="center">
 
@@ -55,7 +57,7 @@ I enjoy combining academic research with hands-on technical experience to explor
 
 ### 🚀 Career Goal
 
-To grow as a **Cybersecurity Researcher and Professional**, contribute to meaningful research, and develop innovative solutions that strengthen network security and protect connected environments.
+**My Goal:** To grow as a Cybersecurity Researcher and Professional, contribute to meaningful research, and develop innovative solutions that strengthen network security and protect connected environments.
 ---
 ## 🔬 Research Publications
 
