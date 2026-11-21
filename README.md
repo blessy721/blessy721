@@ -53,7 +53,36 @@ I enjoy combining research, technical experimentation and practical development 
 **My Goal:** To grow as a cybersecurity professional and researcher by developing practical security solutions and contributing to meaningful technical research.
 
 ---
+## 🔬 Research Publications & Experience
 
+I am actively involved in cybersecurity research, focusing on **IoT Network Security, AI-driven Intrusion Detection, Transformer Models, and Federated Learning**.
+
+### 📄 1. Multi-Class IoT Network Attack Detection Using Transformer Models
+
+- **Publication Status:** Accepted ( Under Publication ) 
+- **Publication:** IEEE
+- **Author Role:** First Author
+- **Dataset:** Public Kaggle Dataset
+- **Implementation:** Python | Multiple ML/DL Frameworks
+- **Research Focus:** Multi-class classification of IoT network attacks using Transformer-based approaches.
+
+### 📄 2. Federated Transformer-Based Framework for Real-Time IDS and Security Response in IoT Networks
+
+- **Publication Status:** Under Review
+- **Publication Type:** Scopus-indexed Journal Submission
+- **Author Role:** First Author
+- **Dataset:** Self-Collected Dataset
+- **Implementation:** Python | Multiple ML/DL Frameworks
+- **Research Focus:** Federated learning and TabTransformer-based deep learning approaches for real-time intrusion detection and security response in IoT networks.
+
+### 🧪 Research & Implementation Experience
+
+- Hands-on experience working with public and self-collected datasets.
+- Developed separate Google Colab notebooks for research implementations.
+- Practical experience with multiple machine learning and deep learning frameworks.
+- Research interests include intelligent threat detection, IoT security, network intrusion detection, and federated learning.
+
+*Note: Research manuscripts, datasets, notebooks, and unpublished experimental details are not publicly shared while publication and confidentiality requirements are pending.*
 
 ## 🛠️ Technical Skills
 
