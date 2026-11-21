@@ -1,5 +1,5 @@
 
-![GitHub Profile Banner](./github-banner.png)
+![GitHub Profile Banner](./Cybersecurity%20Researcher%20GitHub%20Banner.png)
 
 <div align="center">
 
